@@ -1,0 +1,6 @@
+{
+  "name": "RoomChat",
+  "description": "A secure real-time temporary chat application where creators generate room codes, approve join requests, and manage active chat participants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
